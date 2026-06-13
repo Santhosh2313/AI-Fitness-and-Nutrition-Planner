@@ -116,12 +116,3 @@ The application will open at `http://localhost:8501`
 | Slow recipe search | Spoonacular API has rate limits (150 requests/day on free tier) |
 | Progress logs not persisting | Logs are stored in-session only; refresh clears session data |
 | Import errors | Ensure all dependencies installed: `pip install -r requirements.txt` |
-
----
-## 👨‍💻 Author
-
-**Sabarish R** — Full-Stack AI Developer
-
-- LinkedIn: [Sabarish R](https://www.linkedin.com/in/sabarishr08/)
-
----
